@@ -1,5 +1,7 @@
 # Playlist Generator (C)
 
+Author- Mrinali Sharma
+
 A simple console-based Playlist Generator built in C. This project allows users to create and manage a music playlist with basic operations like adding songs, removing songs, viewing the playlist, and shuffling tracks. It was built to practice core C programming concepts and file handling.
 
 ## Features
